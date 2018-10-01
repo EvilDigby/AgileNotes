@@ -1,0 +1,12 @@
+Strengths:
+Easy to understand
+Provies a reference to inexperienced staff
+Is slower but quality is better
+
+Weaknesses:
+All requirements need to be known at the beginning
+No chance for the customer to change their mind without changing the project
+Not flexable
+
+Types of enviroment:
+Great for companies that are not worried about cost
